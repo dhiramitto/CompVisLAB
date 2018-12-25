@@ -1,0 +1,44 @@
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\Project Computer Vision.exe.config
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\Project Computer Vision.exe
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\Project Computer Vision.pdb
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project Computer Vision.csprojAssemblyReference.cache
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project_Computer_Vision.Form1.resources
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project_Computer_Vision.Form2.resources
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project_Computer_Vision.Form3.resources
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project_Computer_Vision.Form4.resources
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project_Computer_Vision.Form5.resources
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project_Computer_Vision.Properties.Resources.resources
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project Computer Vision.csproj.GenerateResource.cache
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project Computer Vision.csproj.CoreCompileInputs.cache
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project Computer Vision.exe
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project Computer Vision.pdb
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\x64\concrt140.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\x64\cvextern.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\x64\msvcp140.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\x64\opencv_ffmpeg343_64.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\x64\vcruntime140.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\x86\concrt140.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\x86\cvextern.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\x86\msvcp140.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\x86\opencv_ffmpeg343.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\x86\vcruntime140.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\Emgu.CV.UI.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\Emgu.CV.World.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\ZedGraph.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\Emgu.CV.UI.xml
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\Emgu.CV.World.xml
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\ZedGraph.xml
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\de\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\es\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\fr\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\hu\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\it\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\ja\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\pt\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\ru\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\sk\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\sv\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\tr\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project Computer Vision.csproj.CopyComplete
