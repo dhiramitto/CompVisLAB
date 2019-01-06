@@ -42,3 +42,45 @@ D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vis
 D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\zh-cn\ZedGraph.resources.dll
 D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\bin\Debug\zh-tw\ZedGraph.resources.dll
 D:\BINUS\SEMESTER 7\COMPUTER VISION\Project Computer Vision\Project Computer Vision\obj\Debug\Project Computer Vision.csproj.CopyComplete
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\Project Computer Vision.exe.config
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\obj\Debug\Project Computer Vision.exe
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\obj\Debug\Project Computer Vision.pdb
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\x64\concrt140.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\x64\cvextern.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\x64\msvcp140.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\x64\vcruntime140.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\x86\concrt140.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\x86\cvextern.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\x86\msvcp140.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\x86\vcruntime140.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\Project Computer Vision.exe
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\Project Computer Vision.pdb
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\Emgu.CV.World.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\ZedGraph.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\Emgu.CV.World.xml
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\ZedGraph.xml
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\obj\Debug\Project Computer Vision.csprojResolveAssemblyReference.cache
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\obj\Debug\Project_Computer_Vision.Form1.resources
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\obj\Debug\Project_Computer_Vision.Form2.resources
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\obj\Debug\Project_Computer_Vision.Form3.resources
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\obj\Debug\Project_Computer_Vision.Form4.resources
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\obj\Debug\Project_Computer_Vision.Form5.resources
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\obj\Debug\Project_Computer_Vision.Properties.Resources.resources
+C:\Users\Edric Jonathan\Desktop\Computer Vision LAB\PROJECT\CompVisLAB-master\Project Computer Vision\obj\Debug\Project Computer Vision.csproj.GenerateResource.Cache

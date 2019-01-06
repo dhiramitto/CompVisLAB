@@ -269,7 +269,8 @@
             this.Controls.Add(this.button5);
             this.ForeColor = System.Drawing.Color.White;
             this.Name = "Form5";
-            this.Text = "Form5";
+            this.Text = "Computer Vision Is Real";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form5_FormClosing);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();

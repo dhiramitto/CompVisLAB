@@ -162,6 +162,26 @@ namespace Project_Computer_Vision
             pictureBox3.Image = pictureBox6.Image;
         }
 
+        private void Form5_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (e.CloseReason == CloseReason.UserClosing)
+            {
+                DialogResult result = MessageBox.Show("Do you really want to exit?", "Exit", MessageBoxButtons.YesNo);
+                if (result == DialogResult.Yes)
+                {
+                    Environment.Exit(0);
+                }
+                else
+                {
+                    e.Cancel = true;
+                }
+            }
+            else
+            {
+                e.Cancel = true;
+            }
+        }
+
         private void button5_Click(object sender, EventArgs e)
         {
 

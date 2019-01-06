@@ -206,7 +206,8 @@
             this.Controls.Add(this.button5);
             this.ForeColor = System.Drawing.Color.White;
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "Computer Vision Is Real";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form2_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
